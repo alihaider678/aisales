@@ -1,0 +1,30 @@
+[
+{
+  "model": "sessions.session",
+  "pk": "ljb4smzteqw0tafla02vaq246y9upor0",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2pAOkAFcuvcMZIBBqoYmpV013t026UK3_733NxFoXWpYO89hzOIqQFx-t0jpxe0A-UntMck0tWUeozwUedIu71Pm9-10_w4q9brXxOAHpyw4yMDaG8UKmZBMooylIHOyziinzRC9skWjjzsBbTxyseLzBdrjN7U:1u6qQM:MZaVYHzQZdxQtoSix1vBNHa_YPSUuQaPel9YUvgRsh4",
+    "expire_date": "2025-05-05T12:38:58.523Z"
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$s8z9RjfKfQnRE7ybUFToJ8$BpoVmUdSr5lTlnOgz3Gi6rpLucvJ7LjjcghCGNFDBQA=",
+    "last_login": "2025-04-21T12:38:58.516Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "ali.haiyder11@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-04-21T08:25:20.624Z",
+    "role": "",
+    "company": null,
+    "onboarding_complete": false,
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
